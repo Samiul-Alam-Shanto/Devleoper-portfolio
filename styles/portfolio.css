@@ -212,3 +212,29 @@ main{
     margin-top: 50px;
 
 }
+
+/* footer styles */
+
+.footer{
+    background-color:#FFF8F3;
+    display: flex;
+    gap: 120px;
+    margin-top: 130px;
+    padding: 130px 230px;
+}
+.footer-column{
+    width: 50%;
+}
+.footer-column a{
+    margin-right: 20px;
+}
+footer input[type="text"],footer input[type="email"],footer textarea{
+    height: 64px;
+    border-radius: 5px;
+    background-color: white;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border: none;
+    width: 100%;
+}
