@@ -47,7 +47,7 @@
 .header{
     background-image: url(../images/developer.png),url(../images/header_bg.png);
     background-repeat: no-repeat;
-    background-position: top left,bottom right;
+    background-position: bottom left,bottom right;
     background-color: #FFF8F3;
 }
 body{margin: 0px 0px 0px 0px}
